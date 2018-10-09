@@ -1,0 +1,188 @@
+.div{
+    box-sizing: border-box;
+}
+
+button{
+    cursor: pointer;
+}
+
+.clear {
+    clear: both;
+}
+
+.section {
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.content {
+    width: 90%;
+    margin: 0 auto;
+}
+.s1{
+    height: 80px;
+}
+.s1 ul {
+    display: inline-block;
+    float: right;
+    list-style: none;
+}
+
+.s1 ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.s1 img {
+    display: inline-block;
+    float: left;
+    margin-top: 10px;
+}
+
+.s2{
+    background: url(../img/place%20image%20here.png);
+    height: 500px;
+}
+.s2 .content{
+    text-align: center;
+}
+.maintxt{
+    padding-top: 135px;
+    color: white;
+}
+
+.s2 p{
+    color: white;
+} 
+.formdiv{
+    
+    width: 80%;
+    
+    background-color: #422713;
+    height: 75px;
+    margin: 0 auto;
+    margin-top: 65px;
+   padding-left: 20px;
+    padding-right: 20px;
+}
+
+.formdiv input{
+    height: 45px;
+    width: 310px;
+    border: none;
+    margin-top: 15px;
+    
+}
+.textdiv{
+    display: inline-block;
+    float: left;
+}
+.numberdiv{
+    display: inline-block;
+}
+.submitdiv{
+    display: inline-block;
+    float: right;
+}
+.s3{
+    height: 380px;
+}
+.s3 .content{
+    width: 70%;
+}
+.branch{
+    display: inline-block;
+    width:33%;
+    height: 100%;
+    text-align: center;
+    padding-top: 65px;
+    
+}
+.s4{
+    height: 515px;
+    background-color: #f9f9f9;
+}
+.s4 .content{
+    text-align: center;
+}
+.s4 .content h2{
+    padding-top: 125px;
+    margin-bottom: 60px;
+    font-size: 48px;
+}
+.learnbtn{
+    margin-top: 55px;
+    height: 55px;
+    width: 215px;
+    border-radius: 30px;
+    border: none;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #7f1a38;
+}
+.s5{
+    height: 130px;
+    background-color: #32383d;
+}
+..s5 .content{
+    text-align: center;
+}
+.s5 .content h2{
+    padding-top: 35px;
+    display: inline-block;
+    text-align: center;
+    padding-right: 65px;
+    color: white;
+}
+.content5{
+    text-align: center;
+}
+.s5 a{
+    padding-top: 35px;
+    
+}
+.s5 button{
+    display: inline-block;
+    text-align: center;
+    height: 48px;
+    width: 175px;
+    border-radius: 30px;
+    border: none;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    background-color: #32383d;
+    color: white;
+    
+}
+.s6{
+    height: 220px;
+    background-color: #09bbdb;
+}
+.s6 .content{
+    text-align: center;
+}
+.s6 i{
+    padding-top: 30px;
+    width: 30px;
+    height: 30px;
+    color: aqua;
+}
+
+.s6 p{
+    color: white;
+    margin-top: 45px;
+    
+}
+.s7{
+    height: 110px;
+}
+.s7 .content{
+    text-align: center;
+}
+.s7 p{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+}
